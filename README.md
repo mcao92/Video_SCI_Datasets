@@ -1,6 +1,6 @@
 # This is a real testing dataset repository for video Snapshot Compressive Imaging (SCI)
 
-1.  Real testing datasets with continuous compression ratio ranging from 10 to 50.
+# 1.  Real testing datasets with continuous compression ratio ranging from 10 to 50.
 
 https://drive.google.com/file/d/1sVI66wAyEi_NzazYc2Skswe2UMjV954C/view?usp=sharing
 
@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1sVI66wAyEi_NzazYc2Skswe2UMjV954C/view?usp=shari
 | <img src="./figure/color_real.gif"  height=300 width=300> | <img src="./figure/gray_real.gif" width=300 height=300> 
 
 ## Citation
-If our data help your work, please cite our [paper](https://link.springer.com/article/10.1007/s11263-024-02101-y):
+If our data help your work, please cite our papers:
 ```
 @article{cao2024hybrid,
   title={Hybrid CNN-Transformer Architecture for Efficient Large-Scale Video Snapshot Compressive Imaging},
@@ -22,7 +22,7 @@ If our data help your work, please cite our [paper](https://link.springer.com/ar
   publisher={Springer}
 }
 ```
-2. Real testing datasets with ultra-sparse sampled video SCI system
+# 2. Real testing datasets with ultra-sparse sampled video SCI system
 
 https://drive.google.com/drive/folders/1PgqUgmHpz9bds4RowoduYXOrrRs5jIcq?usp=sharing
 
