@@ -1,8 +1,14 @@
-# This is a dataset repository for video Snapshot Compressive Imaging
+# This is a real testing dataset repository for video Snapshot Compressive Imaging (SCI)
 
 1.  Real testing datasets with continuous compression ratio ranging from 10 to 50.
 
 https://drive.google.com/file/d/1sVI66wAyEi_NzazYc2Skswe2UMjV954C/view?usp=sharing
+
+# Reconstruction results of the real datasets
+
+|             Color Real Dataset              |              Gray-scale Real Dataset            |   
+| :-----------------------------: | :------------------------------: | 
+| <img src="./figure/color_real.gif"  height=300 width=300> | <img src="./figure/gray_real.gif" width=300 height=300> 
 
 ## Citation
 If our data help your work, please cite our [paper](https://link.springer.com/article/10.1007/s11263-024-02101-y):
