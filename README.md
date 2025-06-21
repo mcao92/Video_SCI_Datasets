@@ -10,6 +10,10 @@ https://drive.google.com/file/d/1sVI66wAyEi_NzazYc2Skswe2UMjV954C/view?usp=shari
 | :-----------------------------: | :------------------------------: | 
 | <img src="./figure/color_real.gif"  height=300 width=300> | <img src="./figure/gray_real.gif" width=300 height=300> 
 
+# 2. Real testing datasets with ultra-sparse sampled video SCI system
+
+https://drive.google.com/drive/folders/1PgqUgmHpz9bds4RowoduYXOrrRs5jIcq?usp=sharing
+
 ## Citation
 If our data help your work, please cite our papers:
 ```
@@ -22,12 +26,6 @@ If our data help your work, please cite our papers:
   publisher={Springer}
 }
 ```
-# 2. Real testing datasets with ultra-sparse sampled video SCI system
-
-https://drive.google.com/drive/folders/1PgqUgmHpz9bds4RowoduYXOrrRs5jIcq?usp=sharing
-
-## Citation
-If our data help your work, please cite our paper:
 ```
 @article{cao2025sparse,
   title={Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing},
@@ -37,5 +35,4 @@ If our data help your work, please cite our paper:
   year={2025}
 }
 ```
-
 Feel free to contact me via caomiao92@gmail.com if you have any questions!
