@@ -2,7 +2,7 @@
 
 # 1.  Real testing datasets with continuous compression ratio ranging from 10 to 50.
 
-https://drive.google.com/file/d/1sVI66wAyEi_NzazYc2Skswe2UMjV954C/view?usp=sharing
+https://drive.google.com/drive/folders/1EW8ukS-BKJj43Qjedy-1xkNsq4Kmm7Ov?usp=drive_link
 
 # Reconstruction results of the real datasets
 
